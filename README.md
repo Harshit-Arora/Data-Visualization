@@ -9,6 +9,8 @@ Set of interlinked dashboard that compare performances of major U.S Airlines on 
 #### Prices
 #### Stock performance
 
+![Screenshot for github](https://user-images.githubusercontent.com/57209190/77235406-b89acb80-6b8b-11ea-9b11-2b755a45a50c.png)
+
 Check out the dashboard here: https://public.tableau.com/profile/harshit.arora2598#!/vizhome/ADeepDiveintotheU_S_AirlineIndustry/Index_Page
 
 Note: This dashboard has been made using 10 GB of data, and Tableau Public takes time for it to load. Please re-load if you see an error for the first time)
