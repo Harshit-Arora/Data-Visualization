@@ -3,10 +3,10 @@ Data Visualization Homeworks and Final Project using Tableau and R (ggplot2)
 
 ## Airline Tableau Dashboard
 
-Set of interlinked dashboard that compare performances of major U.S Airlines on several KPIs, such as:
-#### On-Time Performance by route
+Set of 3 interlinked dashboards that compare performances of major U.S Airlines on several KPIs, such as:
+
 #### Passengers by State
-#### Prices
+#### On-Time Performance by route (Cancellation Rate, Prices, Number of flights)
 #### Stock performance
 
 ![Screenshot for github](https://user-images.githubusercontent.com/57209190/77235406-b89acb80-6b8b-11ea-9b11-2b755a45a50c.png)
